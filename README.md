@@ -1,4 +1,5 @@
 # CPU-information
+RAM information using Python3
 ## Requriment
 ```
 Python3
